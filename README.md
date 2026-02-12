@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação na Universidade Católica de Brasília, com foco na profissionalização em Cybersecurity.<br>Dedico-me ao desenvolvimento de habilidades técnicas por meio de estudos e projetos práticos, tendo como princípio o aprendizado contínuo como base para a excelência na tecnologia.</p>
+<p align="left">I am a Computer Science student at the Catholic University of Brasília, focusing on professional development in Cybersecurity.<br>I dedicate myself to developing technical skills through study and practical projects, with the principle of continuous learning as the foundation for excellence in technology.</p>
 
 ###
 
